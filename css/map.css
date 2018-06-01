@@ -4,6 +4,7 @@
 }
 
 body{
+	zoom:0.5;
 	width: 100%;
 	height: 1280px;
 	
@@ -74,7 +75,7 @@ body{
 
 .nanyuan-1{
 	position: absolute;
-	top: 387px;
+	top: 200px;
 	left: 263px;
 	z-index: 99;
 }
